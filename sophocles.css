@@ -24,6 +24,28 @@
     color: blue;
 }
 
+.table {
+    
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif, Helvetica;
+    background-color: black;
+    margin: 20px;
+    padding: 5px;
+}
+
+.thead {
+    
+    background-color: rgb(235, 200, 135);
+    color: white;
+    text-align: left;
+    border: 1px black;
+    
+}
+
+.tbody{
+    padding-left: 3px;
+    background-color: lightgray;
+}
 
 
 
